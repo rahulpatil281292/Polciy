@@ -10,11 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // MARK: - ViewController life cycle.
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
-
 }
 
